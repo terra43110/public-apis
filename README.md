@@ -362,6 +362,7 @@ API | Description | Auth | HTTPS | Link |
 | Uebermaps | Discover and share maps with friends | `apiKey` | Yes | [Go!](https://uebermaps.com/api/v2) |
 | Utah AGRC | Utah Web API for geocoding Utah addresses | `apiKey` | Yes | [Go!](https://api.mapserv.utah.gov) |
 | ViaCep | Brazil RESTful zip codes API | No | Yes | [Go!](https://viacep.com.br) |
+| ZipCodeAPI | The easy way to calculate distances, radius, and locations for zip codes | `apiKey` | Yes | [Go!](https://www.zipcodeapi.com/) |
 | Zippopotam | Get information about place such as country, city, state, etc | No | No | [Go!](http://www.zippopotam.us) |
 
 ### Government
